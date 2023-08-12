@@ -1,0 +1,194 @@
+{
+  "edges": [
+    {
+      "node": {
+        "id": "861b09fc-598a-4e2c-a8ce-efe612c00fd3",
+        "name": "All-New Ghost Rider",
+        "cover": {
+          "image": {
+            "id": "9e15b066-9e59-4439-af45-2bf17adb5603",
+            "url": "https://d11unjture0ske.cloudfront.net/comic_cover.7368b569-4416-4a31-a1a6-54e38f496528.22cc1e8c-387c-4c20-a321-33513a19bc85.full.jpeg"
+          }
+        },
+        "comicNumber": "1",
+        "startYear": 2014,
+        "storePrice": "6.99",
+        "totalAvailable": 19550,
+        "likeCount": 236,
+        "commentCount": 54,
+        "description": "The first appearance of Robbie Reyes, Ghost Rider! A street race leads a young man on the FAST and FURIOUS road of destiny. Amid an East Los Angeles neighborhood running wild with gang violence and drug trafficking, a war brews in the criminal underworld! With four on the floor, Marvel's newest GHOST RIDER puts vengeance in overdrive!"
+      }
+    },
+    {
+      "node": {
+        "id": "8d7f5cda-b5ff-4b62-bb30-df6d63388214",
+        "name": "Amazing Spider-Man",
+        "cover": {
+          "image": {
+            "id": "b745d131-8ec1-448c-aa99-b3e244ed747a",
+            "url": "https://d11unjture0ske.cloudfront.net/comic_cover.783eb95f-bfb3-478a-889e-49f3c78b7929.7fbee112-805c-4643-8d8f-e70ddbc3a443.full.jpeg"
+          }
+        },
+        "comicNumber": "300",
+        "startYear": 1963,
+        "storePrice": "20",
+        "totalAvailable": 0,
+        "likeCount": 236,
+        "commentCount": 54,
+        "description": "The first appearance of Robbie Reyes, Ghost Rider! A street race leads a young man on the FAST and FURIOUS road of destiny. Amid an East Los Angeles neighborhood running wild with gang violence and drug trafficking, a war brews in the criminal underworld! With four on the floor, Marvel's newest GHOST RIDER puts vengeance in overdrive!"
+      }
+    },
+    {
+      "node": {
+        "id": "98e3092d-5462-4da4-a7a8-8e8435688fb1",
+        "name": "Tales to Astonish",
+        "cover": {
+          "image": {
+            "id": "a887587f-d6fe-4107-a335-3ac32bdf1faf",
+            "url": "https://d11unjture0ske.cloudfront.net/comic_cover.2b89fdfb-2665-4119-8dda-8c0137925397.d4fa55ee-a195-4abc-b556-a44894f5c974.full.jpeg"
+          }
+        },
+        "comicNumber": "90",
+        "startYear": 1959,
+        "storePrice": "6.99",
+        "totalAvailable": 0,
+        "likeCount": 236,
+        "commentCount": 54,
+        "description": "The first appearance of Robbie Reyes, Ghost Rider! A street race leads a young man on the FAST and FURIOUS road of destiny. Amid an East Los Angeles neighborhood running wild with gang violence and drug trafficking, a war brews in the criminal underworld! With four on the floor, Marvel's newest GHOST RIDER puts vengeance in overdrive!"
+      }
+    },
+    {
+      "node": {
+        "id": "912da80e-9116-4776-a416-2fdc4287d8cf",
+        "name": "Marvel Super Hero Secret Wars",
+        "cover": {
+          "image": {
+            "id": "13cabe1a-05fd-4362-844f-f7ee0d0238db",
+            "url": "https://d11unjture0ske.cloudfront.net/comic_cover.30459ac4-62a5-48b2-9d16-3f67f3120fab.b4b498b4-7043-4726-8fd1-1a1d079c6216.full.jpeg"
+          }
+        },
+        "comicNumber": "3",
+        "startYear": 1984,
+        "storePrice": "6.99",
+        "totalAvailable": 0,
+        "likeCount": 236,
+        "commentCount": 54,
+        "description": "The first appearance of Robbie Reyes, Ghost Rider! A street race leads a young man on the FAST and FURIOUS road of destiny. Amid an East Los Angeles neighborhood running wild with gang violence and drug trafficking, a war brews in the criminal underworld! With four on the floor, Marvel's newest GHOST RIDER puts vengeance in overdrive!"
+      }
+    },
+    {
+      "node": {
+        "id": "1ee10fb6-f11c-4b61-9b1e-aa3f2d760235",
+        "name": "Savage She-Hulk",
+        "cover": {
+          "image": {
+            "id": "00f9a779-85aa-4357-8ffc-15e4134c99d8",
+            "url": "https://d11unjture0ske.cloudfront.net/comic_cover.2c15071d-6402-4774-952d-f5673767060f.e2f7e595-f660-408b-af8e-495c3c1db10f.full.jpeg"
+          }
+        },
+        "comicNumber": "1",
+        "startYear": 1980,
+        "storePrice": "6.99",
+        "totalAvailable": 0,
+        "likeCount": 236,
+        "commentCount": 54,
+        "description": "The first appearance of Robbie Reyes, Ghost Rider! A street race leads a young man on the FAST and FURIOUS road of destiny. Amid an East Los Angeles neighborhood running wild with gang violence and drug trafficking, a war brews in the criminal underworld! With four on the floor, Marvel's newest GHOST RIDER puts vengeance in overdrive!"
+      }
+    },
+    {
+      "node": {
+        "id": "b333b348-7eed-4c37-9675-df8a9d41153d",
+        "name": "Marvel Legacy",
+        "cover": {
+          "image": {
+            "id": "ceb9ce48-0c31-4c13-b421-c1d7780f3613",
+            "url": "https://d11unjture0ske.cloudfront.net/comic_cover.5f499af0-7bdf-40ab-870d-a5bfbe8951e4.9e8b39db-7016-4fd8-94a0-4aa4594e2a24.full.jpeg"
+          }
+        },
+        "comicNumber": "1",
+        "startYear": 2017,
+        "storePrice": "6.99",
+        "totalAvailable": 0,
+        "likeCount": 236,
+        "commentCount": 54,
+        "description": "The first appearance of Robbie Reyes, Ghost Rider! A street race leads a young man on the FAST and FURIOUS road of destiny. Amid an East Los Angeles neighborhood running wild with gang violence and drug trafficking, a war brews in the criminal underworld! With four on the floor, Marvel's newest GHOST RIDER puts vengeance in overdrive!"
+      }
+    },
+    {
+      "node": {
+        "id": "92a0b6da-3e62-4dad-8f23-9f0068220781",
+        "name": "Tales to Astonish",
+        "cover": {
+          "image": {
+            "id": "bb806e4a-9e40-4e62-9a0f-32b0088da366",
+            "url": "https://d11unjture0ske.cloudfront.net/comic_cover.0835a0a7-4283-4f92-be23-32716e5e58dc.717410b5-53ee-42c2-a6fa-c66aebf7e12e.full.jpeg"
+          }
+        },
+        "comicNumber": "13",
+        "startYear": 1959,
+        "storePrice": "6.99",
+        "totalAvailable": 0,
+        "likeCount": 236,
+        "commentCount": 54,
+        "description": "The first appearance of Robbie Reyes, Ghost Rider! A street race leads a young man on the FAST and FURIOUS road of destiny. Amid an East Los Angeles neighborhood running wild with gang violence and drug trafficking, a war brews in the criminal underworld! With four on the floor, Marvel's newest GHOST RIDER puts vengeance in overdrive!"
+      }
+    },
+    {
+      "node": {
+        "id": "8878bd4d-362c-4dad-9b40-c4e4e2fb0ac0",
+        "name": "Amazing Fantasy",
+        "cover": {
+          "image": {
+            "id": "ad27dbdc-03d9-467f-ba9b-6702ceb6310e",
+            "url": "https://d11unjture0ske.cloudfront.net/comic_cover.90cd8e7b-5195-4f5b-a5be-bc41d9e338fa.e9ef1d4c-5ea8-44bd-837a-004950b92f9e.full.jpeg"
+          }
+        },
+        "comicNumber": "15",
+        "startYear": 1962,
+        "storePrice": "20",
+        "totalAvailable": 0,
+        "likeCount": 236,
+        "commentCount": 54,
+        "description": "The first appearance of Robbie Reyes, Ghost Rider! A street race leads a young man on the FAST and FURIOUS road of destiny. Amid an East Los Angeles neighborhood running wild with gang violence and drug trafficking, a war brews in the criminal underworld! With four on the floor, Marvel's newest GHOST RIDER puts vengeance in overdrive!"
+      }
+    },
+    {
+      "node": {
+        "id": "78e7e033-4345-43a8-971e-2e7a9aef5e26",
+        "name": "Unbeatable Squirrel Girl",
+        "cover": {
+          "image": {
+            "id": "9188acf9-1fbb-4fc8-be21-9f7c17738eba",
+            "url": "https://d11unjture0ske.cloudfront.net/comic_cover.04d37d04-39e3-4fbb-aebf-93b5c5c4ceb5.dd7135e0-87ca-47bd-8465-63d5ae585157.full.jpeg"
+          }
+        },
+        "comicNumber": "1",
+        "startYear": 2015,
+        "storePrice": "6.99",
+        "totalAvailable": 7811,
+        "likeCount": 236,
+        "commentCount": 54,
+        "description": "The first appearance of Robbie Reyes, Ghost Rider! A street race leads a young man on the FAST and FURIOUS road of destiny. Amid an East Los Angeles neighborhood running wild with gang violence and drug trafficking, a war brews in the criminal underworld! With four on the floor, Marvel's newest GHOST RIDER puts vengeance in overdrive!"
+      }
+    },
+    {
+      "node": {
+        "id": "1f120cd3-1463-4187-8030-3a6a981be78d",
+        "name": "Incredible Hulk",
+        "cover": {
+          "image": {
+            "id": "b88a603e-720c-4870-9b3f-9941c7fcfc77",
+            "url": "https://d11unjture0ske.cloudfront.net/comic_cover.76bde5a2-b2af-46cb-9259-e64af99359b5.1f73c1c1-5556-4579-b519-c5e061ef5868.full.jpeg"
+          }
+        },
+        "comicNumber": "377",
+        "startYear": 1962,
+        "storePrice": "6.99",
+        "totalAvailable": 0,
+        "likeCount": 236,
+        "commentCount": 54,
+        "description": "The first appearance of Robbie Reyes, Ghost Rider! A street race leads a young man on the FAST and FURIOUS road of destiny. Amid an East Los Angeles neighborhood running wild with gang violence and drug trafficking, a war brews in the criminal underworld! With four on the floor, Marvel's newest GHOST RIDER puts vengeance in overdrive!"
+      }
+    }
+  ]
+}
