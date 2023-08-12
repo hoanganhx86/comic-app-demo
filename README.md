@@ -28,7 +28,7 @@ Set up Navigation, Theme, and use the modern testing tool React Native Testing L
 - Use reanimated Carousel component instead of the base ScrollView to have a better performance https://github.com/dohooo/react-native-reanimated-carousel
 - Carousels should be able to auto-scrolling(allow loop)
 
-## To be production ready needs:
+## To be production ready needs
 - Connect to real APIs  & implement API module
 - Add app Icon
 - Add Splash screen
@@ -44,15 +44,33 @@ Set up Navigation, Theme, and use the modern testing tool React Native Testing L
 - Add E2E testing tools like Detox
 - ...
 
-## Testing
+## [Testing](/__tests__)
 On this, we will demo test 2 screens:
 - The Store screen
 - The Comic detail screen
 
-To run all the tests
-    yarn test
+To run all the tests [here](/__tests__)
+
+```bash
+yarn test
+```
 
 ![Test results](test-result.png)
+
+## Lint check and Typescript compile
+
+```bash
+# Lint check    
+yarn lint
+
+# Typescript check    
+npx tsc --noEmit
+
+```
+
+## [Github workflow](.github/workflows/ci.yml)
+
+Will automatically run test and linting and Typescript checks on new code pushed
 
 
 ## Demo
