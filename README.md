@@ -5,47 +5,49 @@
 # Introdution
 
 Comic App Demo
-- Suports mobile and tablet devices
+- Supports mobile and tablet devices
 - Functions: Purchase and read comics
-- Demonstrate quickly scafolt a RN app using ** npx react-native@latest init **
-Set up Navigation, Theme, and using modern testing tool React Native Testing Library for quickly test the app functions
+- Demonstrate quickly scaffold an RN app using **npx react-native@latest init**
+Set up Navigation, Theme, and use the modern testing tool React Native Testing Library to quickly test the app functions
 
 ## Choice of technologies
+
 - React Native version 0.72.3
-- React Navigation: for all navigation stuffs
-    - @react-navigation/native @react-navigation/native-stack react-native-safe-area-context react-native-screens @react-navigation/bottom-tabs 
-- React Native Fast Image for faster image downloading and images caching out of the box as the app has to dowload and render a lot of images
+- Typescript
+- React Navigation: for all navigation-related stuff
+    - Packages: @react-navigation/native @react-navigation/native-stack react-native-safe-area-context react-native-screens @react-navigation/bottom-tabs 
+- React Native Fast Image for faster image downloading and image caching out of the box as the app has to download and render a lot of images
 - Use a custom theme and context to fully control the app appearance(Maybe consider using a UI lib?)
 - Testing:
     - React native testing library
     - Jest
 
 ## Ideas for improvement
-- Comic Detail Screen: Add zoom gesture and animation for the comic detail screen cover image(similar to instagram)
-- Add shared-transition animation for thumbnail to the comic detail screen
-- Use reanimaed Carousel component instead of the base ScrollView to have a better performance https://github.com/dohooo/react-native-reanimated-carousel
-- Carousels should be able to auto scrolling(allow loop)
+- Comic Detail Screen: Add zoom gesture and animation for the comic detail screen cover image(similar to Instagram)
+- Add shared-transition animation for the thumbnail to the comic detail screen
+- Use reanimated Carousel component instead of the base ScrollView to have a better performance https://github.com/dohooo/react-native-reanimated-carousel
+- Carousels should be able to auto-scrolling(allow loop)
 
-## To be production ready, needs:
+## To be production ready needs:
 - Connect to real APIs  & implement API module
 - Add app Icon
 - Add Splash screen
 - Add App environment variables
-- Choose and set Font family for the app
-- Update to have high quality assets for icons(@3x)
-- Comic Detail Screen: Add zoom gesture and animation for the comic cover image(similar to instagram)
-- Add shared-transition animation for thumbnail to the comic detail screen
-- Optimal design for tablet: add break points(base on screen sizes, like tthe css media query) and optimize layout, sizes, font sizes… for each device groups.
-- Add redux, redux-toolkit, RTK query and setup cache for optimize API loading performance
-- Add more test on dump components
+- Choose and set the Font family for the app
+- Update to have high-quality assets for icons(@3x)
+- Comic Detail Screen: Add zoom gesture and animation for the comic cover image(similar to Instagram)
+- Add shared-transition animation for the thumbnail to the comic detail screen
+- Optimal design for tablet: add breakpoints (based on screen sizes, like the CSS media query) and optimize layout, sizes, and font sizes… for each device group.
+- Add redux, redux-toolkit, RTK query, and setup cache to optimize API loading performance
+- Add more tests on dump components
 - Add more defensive code in case data could be nullable
-- Add E2E testing tool like Detox
+- Add E2E testing tools like Detox
 - ...
 
 ## Testing
-On this we will demo test 2 screens:
+On this, we will demo test 2 screens:
 - The Store screen
-- The Comic deail screen
+- The Comic detail screen
 
 To run all the tests
     yarn test
@@ -55,7 +57,8 @@ To run all the tests
 
 ## Demo
 - Iphone
-![App Demo](ip-demo.mp4)
+
+![App Demo](ip-demo.gif)
 
 Screenshots:
 - Android:
@@ -63,6 +66,7 @@ Screenshots:
 ![Android 1](android-1.png) ![Android 2](android-2.png)
 
 - iPad:
+
 ![iPad 1](ipad1.png) ![Ipad 2](ipad2.png)
 
 
