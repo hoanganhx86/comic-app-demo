@@ -7,8 +7,7 @@
 Comic App Demo
 - Supports mobile and tablet devices
 - Functions: Purchase and read comics
-- Demonstrate quickly scaffold an RN app using **npx react-native@latest init**
-Set up Navigation, Theme, and use the modern testing tool React Native Testing Library to quickly test the app functions
+- Demonstrate quickly scaffolding an RN app using **npx react-native@latest init**. Set up navigation and theme, and use the modern testing tool React Native Testing Library to quickly test the app's functions.
 
 ## Choice of technologies
 
@@ -45,7 +44,7 @@ Set up Navigation, Theme, and use the modern testing tool React Native Testing L
 - ...
 
 ## [Testing](/__tests__)
-On this, we will demo test 2 screens:
+We will add test for two screens:
 - The Store screen
 - The Comic detail screen
 
@@ -74,16 +73,21 @@ Will automatically run test and linting and Typescript checks on new code pushed
 
 
 ## Demo
-- Iphone
+
+### Iphone
 
 ![App Demo](ip-demo.gif)
 
-Screenshots:
-- Android:
+Video
+![Video](ip-demo.mp4)
+
+### Screenshots:
+
+#### Android
 
 ![Android 1](android-1.png) ![Android 2](android-2.png)
 
-- iPad:
+#### iPad
 
 ![iPad 1](ipad1.png) ![Ipad 2](ipad2.png)
 
